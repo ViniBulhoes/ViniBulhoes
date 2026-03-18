@@ -1,6 +1,6 @@
-Oii pessoal, eu sou Vinicius Bulhões
-
-Sempre tive interesse em dispositivos eletrônicos e procurava usar o computador do meu pai para jogar e aprender coisas novas, o que me fez despertar um interesse em descobrir como os programas funcionam e como eles são feitos. Isso me ajudou a escolher meu curso como estudante de Análise e Desenvolvimento de Sistemas na Universidade Cruzeiro do Sul (UNICSUL), e atualmente estou em busca da minha primeira oportunidade de estágio na área de TI.
+Oii, pessoal! 👋 Sou Vinicius Bulhões
+Cresci curioso com tecnologia — começou nos tempos em que usava o computador do meu pai para jogar e entender como as coisas funcionavam por baixo dos panos. Essa curiosidade me levou ao curso de Análise e Desenvolvimento de Sistemas na Universidade Cruzeiro do Sul (UNICSUL), onde sigo estudando até hoje.
+Atualmente trabalho como Auxiliar de TI Júnior no setor Operacional da ACNSF, onde coloco em prática o que aprendo e continuo crescendo na área. Estou sempre em busca de novos desafios, projetos e aprendizados.
 
 <div>
 <a href="https://github.com/ViniBulhoes">
