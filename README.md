@@ -7,13 +7,16 @@
 ╚██╗ ██╔╝██║██║╚██╗██║██║██║     ██║██║   ██║╚════██║
  ╚████╔╝ ██║██║ ╚████║██║╚██████╗██║╚██████╔╝███████║
   ╚═══╝  ╚═╝╚═╝  ╚═══╝╚═╝ ╚═════╝╚═╝ ╚═════╝ ╚══════╝
+
+██████╗ ██╗   ██╗██╗     ██╗  ██╗ ██████╗ ███████╗███████╗
+██╔══██╗██║   ██║██║     ██║  ██║██╔═══██╗██╔════╝██╔════╝
+██████╔╝██║   ██║██║     ███████║██║   ██║█████╗  ███████╗
+██╔══██╗██║   ██║██║     ██╔══██║██║   ██║██╔══╝  ╚════██║
+██████╔╝╚██████╔╝███████╗██║  ██║╚██████╔╝███████╗███████║
+╚═════╝  ╚═════╝ ╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚══════╝
 ```
 
-# Vinicius Bulhões
-
 **Auxiliar de TI Júnior · Estudante de ADS · Entusiasta de Tecnologia**
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Curioso+por+natureza+%F0%9F%94%8D;Aprendendo+na+pr%C3%A1tica+%F0%9F%92%BB;Sempre+em+busca+do+pr%C3%B3ximo+desafio+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -30,9 +33,9 @@ vinicius = {
     "localização":   "São Paulo, SP — Brasil 🇧🇷",
     "função_atual":  "Auxiliar de TI Júnior @ ACNSF",
     "formação":      "ADS · UNICSUL (em andamento)",
-    "aprendendo":    ["JavaScript avançado", "Banco de dados", "Redes"],
+    "aprendendo":    ["JavaScript", "Banco de dados", "Redes"],
     "objetivo":      "Crescer como desenvolvedor e especialista em TI",
-    "hobby":         "Entender como tudo funciona por baixo dos panos 🔧"
+    "hobbys":         "Entender como tudo funciona, sempre ouvindo música"
 }
 ```
 
@@ -42,20 +45,12 @@ vinicius = {
 
 <div align="center">
 
-### Linguagens
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Banco de Dados
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Ferramentas
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="40" height="40"/>
 
 </div>
 
