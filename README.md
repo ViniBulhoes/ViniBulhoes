@@ -33,7 +33,7 @@ vinicius = {
     "localização":   "São Paulo, SP — Brasil 🇧🇷",
     "função_atual":  "Auxiliar de TI Júnior @ ACNSF",
     "formação":      "ADS · UNICSUL (em andamento)",
-    "aprendendo":    ["JavaScript", "Banco de dados", "Redes"],
+    "aprendendo":    ["JavaScript", "Banco de dados", "Python", "Java"],
     "objetivo":      "Crescer como desenvolvedor e especialista em TI",
     "hobbys":         "Entender como tudo funciona, sempre ouvindo música"
 }
