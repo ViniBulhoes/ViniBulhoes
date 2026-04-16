@@ -43,7 +43,7 @@ vinicius = {
 
 ## 🛠️ Ferramentas & Tecnologias
  
-
+<div align="center">
  
 ### 💻 Linguagens
  
