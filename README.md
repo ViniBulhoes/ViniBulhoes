@@ -27,8 +27,6 @@
 
 ## 🛠️ Tecnologias
 
-## 🛠️ Tecnologias
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" />
   &nbsp;&nbsp;&nbsp;
@@ -55,9 +53,9 @@
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=ViniBulhoes&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=ViniBulhoes&show_icons=true&theme=tokyonight"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniBulhoes&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniBulhoes&layout=compact&theme=tokyonight"/>
 
 </div>
 
