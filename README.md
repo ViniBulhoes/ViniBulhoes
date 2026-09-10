@@ -55,7 +55,6 @@
 
 <img height="170em" src="https://github-stats-extended.vercel.app/api?username=ViniBulhoes&include_all_commits=true&theme=radical"/>
 
-<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ViniBulhoes&layout=compact&theme=tokyonight"/>
 <img height="170em" src="https://github-stats-extended.vercel.app/api/top-langs?username=ViniBulhoes&layout=compact&langs_count=6&theme=radical"/>
 
 </div>
