@@ -53,9 +53,7 @@
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ViniBulhoes&show_icons=true&theme=tokyonight"/>
-<img height="170em" src="https://github-stats-extended.vercel.app/api?username=ViniBulhoes&theme=radical"/>
-<img height="170em" src="https://github-stats-extended.vercel.app/api?username=ViniBulhoes&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=radical"/>
+<img height="170em" src="https://github-stats-extended.vercel.app/api?username=ViniBulhoes&include_all_commits=true&theme=radical"/>
 
 <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ViniBulhoes&layout=compact&theme=tokyonight"/>
 
